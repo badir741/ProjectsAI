@@ -1,0 +1,7 @@
+@relation simple_labels
+@attribute class {x,y,z}
+@data
+x
+y
+x
+z
