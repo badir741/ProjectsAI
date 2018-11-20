@@ -1,0 +1,2 @@
+run with: 
+java TicTacToe
